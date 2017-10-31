@@ -4040,6 +4040,9 @@ footer .copy span{
 footer .copy .map_icon{
 	top: 0;
 }
+.wrapper .container{
+	position: relative;
+}
 
 /*--------------------------------------------------768--------------------------------------------------*/
 @media (max-width:768px) {
@@ -4414,9 +4417,6 @@ content .reviews .button{
 	display: inline-block;
 	right: 0;
 	top: 0;
-}
-.wrapper .container{
-	position: relative;
 }
 footer .up-button{
 	left: 45%;
